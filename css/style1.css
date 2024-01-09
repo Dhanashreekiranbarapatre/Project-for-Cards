@@ -1,0 +1,19 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  @media(max-width:767px)
+  {
+    .user-menu
+    {
+       justify-content: center !important;
+       margin-top: 20px;
+    }
+  }
